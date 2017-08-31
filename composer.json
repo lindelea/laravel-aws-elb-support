@@ -3,7 +3,7 @@
     "description": "AWS Elastic Load Balancing support for Laravel 5x",
     "keywords": ["laravel", "ELB", "AWS", "Elastic Load Balancing"],
     "require": {
-        "laravel/framework": "5.1.*|5.2.*|5.3.*|5.4.*"
+        "laravel/framework": "5.1.*|5.2.*|5.3.*|5.4.*|5.5.*"
     },
     "license": "MIT",
     "authors": [
