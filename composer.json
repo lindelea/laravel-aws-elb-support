@@ -2,8 +2,8 @@
     "name": "lindelea/laravel-aws-elb-support",
     "description": "AWS Elastic Load Balancing support for Laravel 5x",
     "keywords": ["laravel", "ELB", "AWS", "Elastic Load Balancing"],
-    "require": {
-        "laravel/framework": "5.1.*|5.2.*|5.3.*|5.4.*|5.5.*"
+    "require-dev": {
+        "laravel/framework": "5.1.*|5.2.*|5.3.*|5.4.*|5.5.*|5.6.*"
     },
     "license": "MIT",
     "authors": [
